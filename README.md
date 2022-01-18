@@ -40,4 +40,4 @@ Breaking down gender use by days of the week, we see that females use this servi
 
 By breaking down ridership by gender, use duration, trips by day of the week, and staring/ending locations we are able to take a better look at rider trends. The majority of people who use this service are males who commute to and from work. Comparing this to the demographics of De Moins, Iowa would give a better understanding of how successful this program could be. We could also take a look at the age of those who use Citi Bikes as well as most used stations.
 
-[link to dashboard]("https://public.tableau.com/views/BikeshareChallangeFinal/TopStartingLocations?:language=en-US&:display_count=n&:origin=viz_share_link")
+link to dashboard ("https://public.tableau.com/views/BikeshareChallangeFinal/TopStartingLocations?:language=en-US&:display_count=n&:origin=viz_share_link")
